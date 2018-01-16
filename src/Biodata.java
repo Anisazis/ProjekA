@@ -11,11 +11,12 @@
 public class Biodata {
     public static void main(String args[]) {
 
-                System.out.println ("Nama");
+                System.out.println ("Nama anda");
                 System.out.println ("Sekolah");
                 System.out.println ("Umur");
                 System.out.println ("Berat");
                 System.out.println ("Tinggi");
+                System.out.println ("Cita-cita");
                 System.out.println ("Cita-cita");
             }
 }
